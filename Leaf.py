@@ -1,3 +1,4 @@
+#import turtle model
 import turtle
 
 t = turtle.Turtle()
