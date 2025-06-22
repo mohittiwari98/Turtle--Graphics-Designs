@@ -1,3 +1,4 @@
+#import tinkter
 import turtle
 
 t = turtle.Turtle()
