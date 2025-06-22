@@ -1,5 +1,5 @@
 # importing Required modules
-# For More Projects Visit : Codewithcurious.com/projects
+
 import turtle
 import colorsys
 
