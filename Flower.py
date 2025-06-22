@@ -1,3 +1,4 @@
+#used model turtle
 import turtle
 
 t = turtle.Turtle()
