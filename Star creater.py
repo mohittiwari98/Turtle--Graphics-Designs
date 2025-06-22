@@ -1,3 +1,4 @@
+#import turtle
 import turtle
 
 anms = turtle.Turtle()
