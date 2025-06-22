@@ -1,3 +1,4 @@
+#import turtle model
 import turtle
 
 turtle.setup(width=600, height=500)
