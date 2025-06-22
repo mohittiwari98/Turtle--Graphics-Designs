@@ -1,5 +1,10 @@
 # Turtle--Graphics-Designs
 
+![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
+![](https://img.shields.io/badge/Tool_Used-Turtle-red.svg)
+![](https://img.shields.io/badge/Python_Version-3.7-blue.svg)
+![](https://img.shields.io/badge/Application-Visualization-brown.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
 <div align="center">
   <img src="Screenshot_2025-06-21-22-00-23-13_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" alt="DevOpsShack Banner">
 </div>
