@@ -109,7 +109,7 @@ def black_eyes():
     end_fill()
     my_goto(0, 0)
 
-
+#for face
 def face():
 
     fd(183)
