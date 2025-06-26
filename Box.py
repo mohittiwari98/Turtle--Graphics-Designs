@@ -1,5 +1,5 @@
 #turtle graphics of box
-#import
+#import turtle 
 import turtle
 
 anms = turtle.Turtle()
