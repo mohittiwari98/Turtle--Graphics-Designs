@@ -4,7 +4,7 @@
 import turtle
 import colorsys
 
-# Create window to Display Pattern
+# Create window to Display Patterns
 t = turtle.Turtle()
 s = turtle.Screen()
 
