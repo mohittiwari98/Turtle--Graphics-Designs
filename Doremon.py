@@ -1,7 +1,6 @@
 #draw doremon
 from turtle import *
 
-
 def my_goto(x, y):
     penup()
     goto(x, y)
