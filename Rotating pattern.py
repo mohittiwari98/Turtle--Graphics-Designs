@@ -1,4 +1,4 @@
-#import
+#import required 
 #import turtle
 import turtle as t 
 import colorsys
