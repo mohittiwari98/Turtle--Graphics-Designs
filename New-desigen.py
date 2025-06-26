@@ -5,7 +5,7 @@ t = turtle.Turtle()
 t.speed(0)
 
 colors = ['red,' 'purple,' 'blue,' 'green,' 'orange,' 'yellow']
-#ch
+#change 
 for x in range(360):
     t.pencolor(colors[x % 6])
     t.width(x // 100 + 1)
