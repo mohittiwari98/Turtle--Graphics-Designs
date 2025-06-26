@@ -7,7 +7,7 @@ def my_goto(x, y):
     goto(x, y)
     pendown()
 
-
+#for eyes
 def eyes():
     fillcolor("#ffffff")
     begin_fill()
