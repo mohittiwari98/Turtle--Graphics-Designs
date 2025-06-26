@@ -1,4 +1,4 @@
-#graphics
+#graphics visualization of 
 #used model turtle
 import turtle
 
