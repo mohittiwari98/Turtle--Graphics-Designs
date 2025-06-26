@@ -5,7 +5,7 @@ import turtle
 anms = turtle.Turtle()
 
 anms.color("red", "green")
-
+#change volors according to you 
 anms.begin_fill()
 
 anms.forward(90)
