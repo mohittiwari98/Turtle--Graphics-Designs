@@ -4,7 +4,7 @@ import turtle
 
 anms = turtle.Turtle()
 
-anms.color("red", "yellow")
+anms.color("red", "green")
 
 anms.begin_fill()
 
