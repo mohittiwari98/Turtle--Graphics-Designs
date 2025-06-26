@@ -3,7 +3,7 @@ from turtle import *
 
 bgcolor('black')
 speed(0)
-#using
+#using loop
 for i in range(180):
    color('red')
    circle(i)
