@@ -77,7 +77,7 @@ def scarf():
     circle(-5, 90)
     end_fill()
 
-
+#for nose
 def nose():
     my_goto(-10, 158)
     seth(315)
