@@ -3,7 +3,7 @@
 #import colorsys
 import turtle as t 
 import colorsys
-
+#change color
 t.bgcolor("black")
 t.speed("fastest")
 t.tracer(100)
