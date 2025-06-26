@@ -2,7 +2,7 @@
 from turtle import *
 
 speed(10)
-#change col
+#change color
 color('green')
 bgcolor('black')
 b = 200
