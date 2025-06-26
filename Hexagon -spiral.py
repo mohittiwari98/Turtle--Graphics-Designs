@@ -1,7 +1,7 @@
 #used turtle model
 #import turtle
 from turtle import *
-#change
+#change colors
 colors = ['red', 'purple', 'blue', 'green', 'yellow', 'white']
 speed(0)
 bgcolor('black')
