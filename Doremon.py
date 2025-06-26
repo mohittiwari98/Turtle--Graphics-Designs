@@ -86,7 +86,7 @@ def nose():
     circle(20)
     end_fill()
 
-
+#for eyesball
 def black_eyes():
     seth(0)
     my_goto(-20, 195)
