@@ -2,7 +2,7 @@
 from turtle import *
 
 speed(10)
-#change color acc
+#change color according 
 color('green')
 bgcolor('black')
 b = 200
