@@ -1,3 +1,4 @@
+#graphics
 #used model turtle
 import turtle
 
