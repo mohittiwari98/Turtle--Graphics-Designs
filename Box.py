@@ -1,4 +1,4 @@
-#turtle graphics of box
+#turtle graphics of boxes
 #import turtle 
 import turtle
 
