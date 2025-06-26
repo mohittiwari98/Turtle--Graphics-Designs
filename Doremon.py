@@ -62,7 +62,7 @@ def mouth():
     seth(230)
     circle(-120, 100)
 
-
+#for scarf
 def scarf():
     fillcolor('#e70010')
     begin_fill()
