@@ -136,7 +136,7 @@ def face():
     seth(180)
     fd(64)
 
-
+#for head
 def head():
     penup()
     circle(150, 40)
