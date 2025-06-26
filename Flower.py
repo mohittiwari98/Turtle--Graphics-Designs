@@ -1,4 +1,4 @@
-#graphics visualization of 
+#graphics visualization of leaf
 #used model turtle
 import turtle
 
