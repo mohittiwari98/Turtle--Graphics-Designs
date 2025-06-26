@@ -1,5 +1,5 @@
 #draw doremon
-#import libary
+#import libary turtle
 from turtle import *
 
 def my_goto(x, y):
