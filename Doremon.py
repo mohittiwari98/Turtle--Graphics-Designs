@@ -52,7 +52,7 @@ def beard():
     seth(-13)
     fd(60)
 
-
+#for mouth
 def mouth():
     my_goto(5, 148)
     seth(270)
