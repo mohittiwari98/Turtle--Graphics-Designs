@@ -1,4 +1,5 @@
 #used turtle model
+#import turtle
 from turtle import *
 colors = ['red', 'purple', 'blue', 'green', 'yellow', 'white']
 speed(0)
