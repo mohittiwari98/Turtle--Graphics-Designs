@@ -1,4 +1,4 @@
-#import required 
+#import required modules
 #import turtle
 import turtle as t 
 import colorsys
