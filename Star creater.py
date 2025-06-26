@@ -1,4 +1,4 @@
-#import
+#import required module
 #import turtle
 import turtle
 
