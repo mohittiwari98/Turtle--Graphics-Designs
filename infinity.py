@@ -5,7 +5,7 @@ bgcolor('black')
 color('yellow')
 speed(11)
 right(45)
-#using for lo
+#using for loop
 for i in range(150) :
     circle(30)
     if 7 < i < 62 :
