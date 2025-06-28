@@ -1,4 +1,4 @@
-#import
+#import tu
 from turtle import*
 bgcolor('black')
 color('yellow')
