@@ -1,4 +1,4 @@
-#import turtle liba
+#import turtle libary
 from turtle import*
 bgcolor('black')
 color('yellow')
