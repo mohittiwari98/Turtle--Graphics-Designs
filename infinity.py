@@ -1,6 +1,6 @@
 #import turtle libary
 from turtle import*
-#change
+#change co
 bgcolor('black')
 color('yellow')
 speed(11)
