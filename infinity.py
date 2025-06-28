@@ -8,7 +8,7 @@ right(45)
 #using for loop
 for i in range(150) :
     circle(30)
-    #using condition 
+    #using conditional
     if 7 < i < 62 :
         left(5)
     if 80 < i < 133 :
