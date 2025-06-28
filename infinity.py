@@ -1,6 +1,6 @@
 #import turtle libary
 from turtle import*
-#chan
+#change
 bgcolor('black')
 color('yellow')
 speed(11)
