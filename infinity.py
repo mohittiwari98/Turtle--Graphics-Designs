@@ -1,6 +1,6 @@
 #import turtle libary
 from turtle import*
-#change colour if you 
+#change colour if you req
 bgcolor('black')
 color('yellow')
 speed(11)
