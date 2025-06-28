@@ -1,6 +1,6 @@
 #import turtle libary
 from turtle import*
-#change colour if
+#change colour if yo
 bgcolor('black')
 color('yellow')
 speed(11)
