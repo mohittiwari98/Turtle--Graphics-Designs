@@ -1,4 +1,4 @@
-#import turtle
+#import turtle li
 from turtle import*
 bgcolor('black')
 color('yellow')
